@@ -16,3 +16,5 @@ export async function runAgent(goal: string){
 }
 
 runAgent("Summarize recent research on AI in medicine");
+
+
